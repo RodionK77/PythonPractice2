@@ -1,0 +1,1 @@
+print('muchcodewow'[0:4])
