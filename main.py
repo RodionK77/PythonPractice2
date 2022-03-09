@@ -10,9 +10,9 @@ import numpy as np
 # s = [3, 2, 1]  # 3
 # for i in s[::-1]: print(i)
 
-# x = 4 #4
-# arr = [1, 4, 4, 5, 6, 4]
-# print([i for i, v in enumerate(arr) if v == x])
+#x = 4 #4
+#arr = [1, 4, 4, 5, 6, 4]
+#print([i for i, v in enumerate(arr) if v == x])
 
 # s = [1, 2, 3, 4, 5, 6] #5
 # a = 0

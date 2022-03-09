@@ -1,1 +1,1 @@
-print('muchcodewow'[0:4])
+print('mcwuoocdwhe'[0::3])
